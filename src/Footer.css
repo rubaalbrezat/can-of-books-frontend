@@ -1,0 +1,40 @@
+.footer {
+    background-color: rgb(102, 136, 169);
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    height: 80px;
+    padding: 8px;
+}
+
+.text {
+
+    color: aliceblue;
+    font-size: large;
+    text-align: left;
+    position: relative;
+    top: 20px;
+    left: 20px ;
+
+}
+
+/* .login{
+    background-color: rgba(47, 47, 173, 0.474);
+    padding: 5px 20px;
+    border: 1px solid  rgba(47, 47, 173, 0.477) ;
+    text-align: center;
+    color: aliceblue;
+    border-radius: 10px;
+   
+
+}
+
+
+.logout{
+    background-color: rgba(232, 56, 56, 0.478);
+    padding: 5px 20px;
+    border: 1px solid  rgba(232, 56, 56, 0.478) ;
+    text-align: center;
+    color: aliceblue;
+    border-radius: 10px;
+} */
