@@ -1,14 +1,14 @@
 import React from 'react';
-import Navbar from 'react-bootstrap/Navbar';
+import './Footer.css';
 
 class Footer extends React.Component {
   render() {
     return (
-      <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
-        <Navbar.Brand>Code Fellows</Navbar.Brand>
-      </Navbar>
+      <div className='footer'>
+        <h2 className='text'>All Rights Reserved</h2>
+      </div>
+
     )
   }
 }
-
 export default Footer;
